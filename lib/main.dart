@@ -4,7 +4,8 @@ void main() {
   runApp(MyApp());
 }
 
-//ADDED ON FEATURE FIRST
+//ADDED ON FIRST NAVIGATION
+// branch first/navigation
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
